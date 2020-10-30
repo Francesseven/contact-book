@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    margin: 16px;
+}
+
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid white;
+    padding: 10px 30px;
+}
+
+a {
+    color: yellow;
+    font-weight: bold;
+}
